@@ -1,0 +1,27 @@
+
+user: covid
+pass: 123456
+đặt tên csdl htdieuphoibncovid
+
+tài khoản bệnh nhân 
+ username: 0988154619
+ mật khẩu: 123456789
+
+ tài khoản admin
+ 	username: TriTinh
+ 	mật khẩu: 123456789
+
+ tài khoản y tế phường
+  	username: Tinh
+  	mật khẩu: 123456789
+
+ tài khoản trang điều phối bệnh nhân
+ 	Tại bệnh viện CSCLQUANGV7
+ 		tài khoản : nhanvienkhanh
+ 		mật khẩu: 123456789
+
+ 	Tại bệnh viện BVDCNO6
+ 		tài khoản : nhanviendao
+ 		mật khẩu: 123456789
+
+  
